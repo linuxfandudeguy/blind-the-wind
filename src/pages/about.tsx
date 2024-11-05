@@ -8,7 +8,7 @@ const About: React.FC = () => {
         <Link href="/" className="text-black font-bold hover:underline">Home</Link>
       </div>
       
-      <h1 className="text-4xl font-bold mb-4">Lost Waves&apos; Finest: The Most Mysterious Song on the Internet</h1>
+      <h1 className="text-4xl font-bold mb-4"> The Most Mysterious Song on the Internet</h1>
 
       <h2 className="text-2xl font-semibold mt-6">Origins (1984)</h2>
       <p>

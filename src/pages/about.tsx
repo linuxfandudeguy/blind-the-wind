@@ -53,8 +53,8 @@ const About: React.FC = () => {
 
       <h2 className="text-2xl font-semibold mt-6">Fall 2024: Identification</h2>
       <p>
-        The verification of the song&apos;s identification comes from a recording posted by the channel jcorsen, which features audio from a live concert performance of &quot;Subways Of Your Mind&quot; shortly after the song&apos;s discovery.
-      </p>
+    On 11/07/2024, NDR and a user called marijn1412 would confirm FEX&quot; ending the search.
+     </p>
     </div>
   );
 };

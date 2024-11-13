@@ -53,7 +53,7 @@ const About: React.FC = () => {
 
       <h2 className="text-2xl font-semibold mt-6">Fall 2024: Identification</h2>
       <p>
-    On 11/07/2024, NDR and a user called marijn1412 would confirm FEX&quot; ending the search.
+    On 11/07/2024, NDR and  u/marijn1412 would confirm FEX&quot; ending the search.
      </p>
     </div>
   );
